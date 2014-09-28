@@ -1,0 +1,35 @@
+@import url("home.css");
+
+#seletor{
+	padding-bottom: 20px;
+}
+
+#ultimos_eventos{
+	margin:0 auto;
+  	position: relative;  	
+  	font-family: "Verdana";
+  	width:  55%;
+}
+
+#eventos td{
+	 background-image: url("../img/fundo.jpg");
+}	
+	
+#paginador{
+	color:black;
+	position: relative;
+	top: 10px;
+}
+input[type="text"], input[type="submit"], button{
+	font-family: "Verdana";
+	font-size: 13px;
+}
+th,td{
+	font-size: 12px;
+}
+
+#fotinho{
+	max-width: 200px;
+	max-height: 170px;
+}
+
